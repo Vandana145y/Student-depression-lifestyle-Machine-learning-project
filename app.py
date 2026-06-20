@@ -19,7 +19,7 @@ st.set_page_config(
 # ─────────────────────────────────────────────
 # Config
 # ─────────────────────────────────────────────
-CSV_PATH = r"C:\Users\parip\Downloads\archive (5)\student_lifestyle_100k.csv"  # place this file next to app.py
+CSV_PATH = r"C:\Users\parip\Downloads\archive (5).zip"  # place this file next to app.py
 MODEL_CACHE_PATH = "student_depression_model.joblib"
 
 GENDER_OPTIONS = ["Female", "Male"]
